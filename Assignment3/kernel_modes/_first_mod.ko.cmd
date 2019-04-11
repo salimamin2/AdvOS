@@ -1,0 +1,1 @@
+cmd_/home/salim/Desktop/Assignment3/kernel_modes/first_mod.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/salim/Desktop/Assignment3/kernel_modes/first_mod.ko /home/salim/Desktop/Assignment3/kernel_modes/first_mod.o /home/salim/Desktop/Assignment3/kernel_modes/first_mod.mod.o
